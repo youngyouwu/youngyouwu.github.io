@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>计算机网络层次</title>
+    <link href="/2021/09/11/network-01/"/>
+    <url>/2021/09/11/network-01/</url>
+    
+    <content type="html"><![CDATA[<h2 id="计算机网络层次划分"><a href="#计算机网络层次划分" class="headerlink" title="计算机网络层次划分"></a>计算机网络层次划分</h2><h3 id="OSI-Open-Systems-Interconnection-modal"><a href="#OSI-Open-Systems-Interconnection-modal" class="headerlink" title="OSI(Open Systems Interconnection) modal"></a>OSI(Open Systems Interconnection) modal</h3><ul><li>应用层</li><li>表示层</li><li>会话层</li><li>传输层</li><li>网络层</li><li>数据链路层</li><li>物理层</li></ul><h3 id="TCP-IP"><a href="#TCP-IP" class="headerlink" title="TCP/IP"></a>TCP/IP</h3><ul><li>应用层</li><li>传输层</li><li>网络层</li><li>数据链路层</li><li>物理层</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机网络</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>计算机网络层次</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Linux命令-文件管理</title>
     <link href="/2021/09/09/linux-cmd-01/"/>
     <url>/2021/09/09/linux-cmd-01/</url>
